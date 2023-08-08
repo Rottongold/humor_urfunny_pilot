@@ -1,17 +1,7 @@
-humor = [14445, 13740, 263, 9286, 11090, 14052, 11787, 14889, 11262, 11144]
-nonhumor = [5219, 3342, 4541, 13179, 11768, 9338, 10482, 13366, 14527, 8019]
-
-Note: for humor labels, 1 means it has a humorous punchline, 0 means no humorous punchline
-
 video_index: 14445
 humor label: 1
 context_sentences['is another part of the brain which is especially activated when one sees cartoons', "it's activated when one recognizes cartoons when one draws cartoons and when one hallucinates them", "it's very interesting that that should be specific", 'there are other parts of the brain which are specifically involved with the recognition and hallucination of buildings and landscapes', 'around it was found that there were not only parts of the brain but particular cells', 'face cells were discovered around', 'and now we know that there are hundreds of other sorts of cells which can be very very specific']
 punchline_sentence: so you may not only have car cells you may have aston martin cells
-
-video_index: 13740
-humor label: 1
-context_sentences['so at the end of the two weeks we went back to room', "i love this picture because this is someone else's room and that's his room", "so there's all this hustle and bustle going on for the big unveiling", 'and after over a year of planning two weeks of programming fest and all night sessions tony drew again for the first time in seven years', "and this is an amazing picture because this is his life support system and he's looking over his life support system", 'we kicked his bed so that he could see out', 'and we set up a projector on a wall out in the parking lot outside of his hospital', 'and he drew again for the first time in front of his family and friends and you can only imagine what the feeling in the parking lot was']
-punchline_sentence: the funny thing was we had to break into the parking lot too so we totally felt like we were legit in the whole graf scene too
 
 video_index: 263
 humor label: 1
@@ -28,16 +18,6 @@ humor label: 1
 context_sentences['except if you look a little bit closer you see in fact that this thing is way too small to be anything like that', "so he was convinced but in fact most people aren't", 'and then of course nasa also had a big announcement and president clinton gave a press conference about this amazing discovery of life in a martian meteorite', "except that nowadays it's heavily disputed", "if you take the lesson of all these pictures then you realize well actually maybe it's not that easy", 'maybe i do need a definition of life in order to make that kind of distinction', "so can life be defined well how would you go about it well of course you'd go to encyclopedia britannica and open at l", "no of course you don't do that you put it somewhere in"]
 punchline_sentence: and then you might get something
 
-video_index: 14052
-humor label: 1
-context_sentences['this is what it looks like essentially this credit and debt system just for the u', 'k', 'this was the last years before the crash and you can see there consumer debt rose dramatically', 'it was above the for three years in a row just before the crisis', 'and in the mean time personal savings absolutely plummeted', 'the savings ratio net savings were below zero in the middle of just before the crash', 'this is people expanding debt drawing down their savings just to stay in the game', 'this is a strange rather perverse story just to put it in very simple terms']
-punchline_sentence: it's a story about us people being persuaded to spend money we don't have on things we don't need to create impressions that won't last on people we don't care about
-
-video_index: 11787
-humor label: 1
-context_sentences['we were looking at this mouse here trying to activate a memory for the first time using our technique', 'and this is what we saw', "when we first put the mouse into this box it's exploring sniffing around walking around minding its own business because actually by nature mice are pretty curious animals", "they want to know what's going on in this new box it's interesting", 'but the moment we turned on the laser like you see now all of a sudden the mouse entered this freezing mode', 'it stayed here and tried not to move any part of its body', "clearly it's freezing", 'so indeed it looks like we are able to bring back the fear memory for the first box in this completely new environment']
-punchline_sentence: while watching this steve and i are as shocked as the mouse itself
-
 video_index: 14889
 humor label: 1
 context_sentences['we had a memorable fight', "feminism is dated yes for privileged women like my daughter and all of us here today but not for most of our sisters in the rest of the world who are still forced into premature marriage prostitution forced labor they have children that they don't want or they cannot feed", 'they have no control over their bodies or their lives', 'they have no education and no freedom', 'they are raped beaten up and sometimes killed with impunity', 'for most western young women of today being called a feminist is an insult']
@@ -53,52 +33,67 @@ humor label: 1
 context_sentences["i'm here because i have a very important message i think we have found the most important factor for success", 'and it was found close to here stanford', 'psychology professor took kids that were four years old and put them in a room all by themselves', 'and he would tell the child a four kid johnny i am going to leave you here with a marshmallow for minutes', 'if after i come back this marshmallow is here you will get another one', 'so you will have two']
 punchline_sentence: to tell a four kid to wait minutes for something that they like is equivalent to telling us we'll bring you coffee in two hours
 
-video_index: 5219
-humor label: 0
-context_sentences['what we saw was a natural experiment', "it is rare to get an exogenous investment in girls' education", 'and over the years as we followed dai we were able to see that she was able to move out of a vicious cycle and into a virtuous cycle', 'she not only changed her own dynamic she changed her household she changed her family her village', 'the village became a real standout', 'of course most of china was flourishing at the time but they were able to get a road built to link them up to the rest of china', 'and that brings me to my first major of two tenets of half the sky', 'and that is that the central moral challenge of this century is gender inequity']
-punchline_sentence: in the century it was slavery
+video_index: 3774
+humor label: 1
+context_sentences["we have been mountains and apples and and other people's knees", "who knows maybe one of your atoms was once napoleon's knee", 'that is a good thing', 'unlike the occupants of the universe the universe itself is not wasteful', 'we are all totally recyclable', "and when we die we don't even have to be placed in different refuse sacs", 'this is a wonderful thing', 'understanding to me does not remove the wonder and the joy']
+punchline_sentence: for instance my wife could turn to me and she may say why do you love me and i can with all honesty look her in the eye and say because our pheromones matched our olfactory receptors
 
-video_index: 3342
-humor label: 0
-context_sentences["and of course if you're a speaker here like hans a speaker finds this complex tricky", 'but in hans case he had a secret weapon yesterday literally in his sword swallowing act', 'and i must say i thought of quite a few objects that i might try to swallow today and finally gave up on but he just did it and that was a wonderful thing', "so puck meant not only are we fools in the pejorative sense but that we're easily fooled", "in fact what shakespeare was pointing out is we go to the theater in order to be fooled so we're actually looking forward to it"]
-punchline_sentence: we go to magic shows in order to be fooled
+video_index: 10200
+humor label: 1
+context_sentences['about years ago i went through a little bit of a hard time', 'so i decided to go see a therapist', 'i had been seeing her for a few months when she looked at me one day and said who actually raised you until you were three seemed like a weird question', 'i said my parents', "and she said i don't think that's actually the case because if it were we'd be dealing with things that are far more complicated than just this", 'it sounded like the setup to a joke but i knew she was serious', 'because when i first started seeing her i was trying to be the funniest person in the room']
+punchline_sentence: and i would try and crack these jokes but she caught on to me really quickly and whenever i tried to make a joke she would look at me and say that is actually really sad
 
-video_index: 4541
-humor label: 0
-context_sentences["and gentlemen let's not be afraid", "let's be curious yes and you know walking through ted in these days and hearing the other speakers and feeling the energy of the crowd i was remembering this quote of the canadian author marshall who once famously said on spacecraft earth there are no passengers", 'we are all crew', 'and i think this so beautiful', "this is so beautiful we're not just consumers we're makers we make decisions we make new inventions we make new dreams", "and i think if we start implementing that kind of thinking even more within today there's still a whole new world to be explored"]
-punchline_sentence: all right thank you
+video_index: 5260
+humor label: 1
+context_sentences['the expressive potential of the new tools that we have', "in my own case i'm an artist and i'm really interested in expanding the vocabulary of human action and basically empowering people through interactivity", 'i want people to discover themselves as actors as creative actors by having interactive experiences', 'a lot of my work is about trying to get away from this', 'this a photograph of the desktop of a student of mine', "and when i say desktop i don't just mean the actual desk where his mouse has worn away the surface of the desk", 'if you look carefully you can even see a hint of the apple menu up here in the upper left where the virtual world has literally punched through to the physical']
+punchline_sentence: so this is as joy mountford once said the mouse is probably the narrowest straw you could try to suck all of human expression through
 
-video_index: 13179
-humor label: 0
-context_sentences['a comment so absurd that it is funny', 'but it also speaks to the panic the literal terror that the fear of fat can evoke', "it is this fear that's feeding the diet industry which is keeping so many of us from making peace with our own bodies for waiting to be the after photo before we truly start to live our lives", 'because the real elephant in the room here is', 'fat activism refuses to indulge this fear']
-punchline_sentence: by advocating for self determination and respect for all of us we can shift society's reluctance to embrace diversity and start to celebrate the myriad ways there are to have a body
+video_index: 14225
+humor label: 1
+context_sentences["so this talk is going to be about how do we make things and what are the new ways that we're going to make things in the future", "now ted sends you a lot of spam if you're a speaker about do this do that and you fill out all these forms and you don't actually know how they're going to describe you and it flashed across my desk that they were going to introduce me as a futurist", "and i've always been nervous about the term futurist because you seem doomed to failure because you can't really predict it", 'and i was laughing about this with the very smart colleagues i have and said you know well if i have to talk about the future what is it and george homsey a great guy said oh the future is amazing', 'it is so much stranger than you think']
+punchline_sentence: we're going to reprogram the bacteria in your gut and we're going to make your poo smell like peppermint
 
-video_index: 11768
-humor label: 0
-context_sentences['but seriously this issue on anonymity is i mean you made the case there', 'but anonymity basically allows people to say anything all the rules gone', "you've had to wrestle with issues like child pornography", "and i'm just curious whether you sometimes lie awake in the night worrying that you've opened pandora's box", 'yes and no', 'i mean for as much good that kind of comes out of this environment there is plenty of bad', 'there are plenty of downsides', "but i think that the greater good is being served here by just allowing people there are very few places now where you can go and not have identity to be completely anonymous and say whatever you'd like"]
-punchline_sentence: and saying whatever you like i think is powerful
+video_index: 7821
+humor label: 1
+context_sentences['and i went out there and made it to the big east which was sort of the championship race at the end of the season', 'it was really really hot', "and it's the first i had just gotten these new sprinting legs that you see in that bio and i didn't realize at that time that the amount of sweating i would be doing in the sock it actually acted like a lubricant and i'd be kind of in the socket", 'and at about meters of my meters sprint in all my glory i came out of my leg', 'like i almost came out of it in front of like people']
+punchline_sentence: and i i mean was just mortified because i was signed up for the you know which went off in a half hour
 
-video_index: 9338
-humor label: 0
-context_sentences['it has an extraordinary lightness and yet it is also amazing balanced', 'it has these kinds of sculptural ingredients', 'and then the play between actually really quite carefully disposed color and gilding and the sculptural surface is really rather remarkable', 'and then i realized that this piece went into the kiln four times at least four times in order to arrive at this', 'how many moments for accident can you think of that could have happened to this piece and then remember not just one but two', "so he's having to arrive at two exactly matched vases of this kind", 'and then this question of', 'well actually the end of the trunks were originally candle holders']
-punchline_sentence: so what you would have had were candles on either side
+video_index: 1300
+humor label: 1
+context_sentences["i'd just come back from living in spain for a while and i'd joined this fortune company", 'i thought this is fantastic', "i'm going to have big impact on the world", 'i had all these ideas', 'and within about two months i noticed at about every morning i had this strange urge to want to slam my head through the monitor of my computer', "i don't know if anyone's ever felt that", 'and i noticed pretty soon after that that all the competitors in our space had already automated my job role', 'and this is right about when i got this sage advice to build up my resume']
+punchline_sentence: well as i'm trying to figure out what two story window i'm going to jump out of and change things up i read some altogether different advice from warren buffett and he said taking jobs to build up your resume is the same as saving up sex for old age
 
-video_index: 10482
-humor label: 0
-context_sentences['and x ray crystallography is now a subject in you know chemistry departments', 'i mean in those days it was the domain of the physicists', 'so the best place for x ray crystallography was at the cavendish laboratory at cambridge', 'and there i met francis crick', 'i went there without knowing him', 'he was', 'i was', 'and within a day we had decided that maybe we could take a shortcut to finding the structure of']
-punchline_sentence: not solve it like you know in rigorous fashion but build a model an electro model using some coordinates of you know length all that sort of stuff from x ray photographs
+video_index: 5445
+humor label: 1
+context_sentences["sometimes i'm asked who was the best player i had or the best teams", 'i can never answer that', 'as far as the individuals are concerned i was asked one time about that and they said suppose that you in some way could make the perfect player', "what would you want and i said well i'd want one that knew why he was at to get an education he was a good student really knew why he was there in the first place", "but i'd want one that could play too", "i'd want one to realize that defense usually wins championships and who would work hard on defense", "but i'd want one who would play offense too", "i'd want him to be and look for the pass first and not shoot all the time"]
+punchline_sentence: and i'd want one that could pass and would pass
 
-video_index: 13366
-humor label: 0
-context_sentences['is essentially a small research group at c', 'i', 'd', 'where we are looking to find alternate visions of how to create a digitally inclusive society', "that's what we're after", 'and we do this because we actually believe that silicon technology today is mostly about a culture of excess', "it's about the fastest and the most efficient and the most dazzling gadget you can have while about two thirds of the world can hardly reach the most basic of this technology to even address fundamental needs in life including health care education and all these kinds of very fundamental issues"]
-punchline_sentence: so before i start i want to talk about a little anecdote a little story about a man i met once in
+video_index: 14302
+humor label: 1
+context_sentences['online misogyny is a global gender rights tragedy and it is imperative that it ends', "girls' and women's voices and our allies' voices are constrained in ways that are personally economically professionally and politically damaging", 'and when we curb abuse we will expand freedom', 'i am a kentucky basketball fan so on a fine march day last year i was doing one of the things i do best i was cheering for my wildcats']
+punchline_sentence: the daffodils were blooming but the referees were not blowing the whistle when i was telling them to
 
-video_index: 14527
-humor label: 0
-context_sentences['am i not an animal biologically speaking are we not all in this room animals accepting the fact that we are animals has some potentially terrifying consequences', 'it means accepting that we are doomed to decay and die just like any other creature on earth', "for the last nine years i've worked in the funeral industry first as a operator then as a mortician and most recently as the owner of my own funeral home"]
-punchline_sentence: and i have some good news if you're looking to avoid the whole doomed to decay and die thing you will have all the help in the world in that avoidance from the funeral industry
+video_index: 1772
+humor label: 1
+context_sentences['some of my transgressions are more flagrant', "if a woman wants to take her husband's name that is her choice and it is not my place to judge", 'if a woman chooses to stay home to raise her children i embrace that choice too', 'the problem is not that she makes herself economically vulnerable in that choice the problem is that our society is set up to make women economically vulnerable when they choose', "let's deal with that", 'i reject the mainstream feminism that has historically ignored or deflected the needs of women of color working class women queer women and women in favor of supporting white and upper class straight women']
+punchline_sentence: listen if that's good feminism i am a very bad feminist
 
-video_index: 8019
-humor label: 0
-context_sentences['to reducing global poverty and what i found was quite surprising', "we started looking at things like death rates in the century and how they'd been improved and very simple things turned out", "you'd think maybe antibiotics made more difference than clean water but it's actually the opposite", 'and so very simple things off technologies that we could easily find on the then early web would clearly make a huge difference to that problem']
-punchline_sentence: but i also in looking at more powerful technologies and and genetic engineering and other new emerging kind of digital technologies became very concerned about the potential for abuse
+video_index: 3960
+humor label: 1
+context_sentences['but the reason she was unavailable to speak with me is that she was out for a hike because it was a beautiful spring morning and she wanted to go for a hike', 'so of course this makes me even more intrigued and when i finally do catch up with her she explains it like this', 'she says listen laura everything i do every minute i spend is my choice', "and rather than say i don't have time to do x y or z she'd say i don't do x y or z because it's not a priority", "i don't have time often means it's not a priority", "if you think about it that's really more accurate language", "i could tell you i don't have time to dust my blinds but that's not true"]
+punchline_sentence: if you offered to pay me to dust my blinds i would get to it pretty quickly
+
+video_index: 2289
+humor label: 1
+context_sentences['and after this i realized that on a scale of one to one being minimal impact being maximal impact if i took the trip i was risking a one to three of temporary and reversible pain for an eight to of positive life changing impact that could be a semi permanent', 'so i took the trip', 'none of the disasters came to pass', 'there were some hiccups sure', 'i was able to extricate myself from the business', 'i ended up extending that trip for a year and a half around the world and that became the basis for my first book that leads me here today', 'and i can trace all of my biggest wins and all of my biggest disasters averted back to doing fear setting at least once a quarter', "it's not a panacea"]
+punchline_sentence: you'll find that some of your fears are very well founded
+
+video_index: 6691
+humor label: 1
+context_sentences['now this air comes with an ethical dimension as well', "humans made this air but it's also the most potent greenhouse gas that has ever been tested", 'its warming potential is times that of carbon dioxide and it has that longevity of to generations', 'so this ethical confrontation is really central to my work', 'it has another quite surprising quality']
+punchline_sentence: it changes the sound of your voice quite dramatically
+
+video_index: 3810
+humor label: 1
+context_sentences['this seemingly innocent joke when i heard it as a child in nigeria was told about and hausa with the hausa being harry', 'so what seems like an eccentric if tragic joke about harry becomes a way to spread ethnic hatred', 'my father was educated in cork in the university of cork in the', 'in fact every time i read in ireland people get me all mistaken and they say oh this is chris from cork', "but he was also in oxford in the and yet growing up as a child in nigeria my father used to say to me you must never eat or drink in a person's house because they will poison you"]
+punchline_sentence: it makes sense now when i think about it because if you'd known my father you would've wanted to poison him too

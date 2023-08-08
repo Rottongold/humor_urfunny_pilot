@@ -8,8 +8,14 @@ After opening the software, please open the `Ollie_URFUNNY_sample` in the coder 
 
 In default, the paradigm will only display the training video, and two stimuli, one in large size and one in small size as a demo. If you want to see all the stimulus, please include all the stimuli in line 26 and 27. 
 
+
+## Update 8.7.2023
+1. All the non-funny stimuli are replaced with funny stimuli since majority of the clips are serious 
+2. Added Instruction 
+3. Change event marker type to strings 
+
 ## Material
-This is the paradigm for my pilot humor study. There are 10 humorous stimuli and 10 non-funny stimuli included in the folder. Each stimuli lasts for 45 seconds. 
+This is the paradigm for my pilot humor study. There are 20 stimuli included in the folder. Each stimuli lasts for 45 seconds. 
 
 In each trial: 
 1. 1s fixation cross at the center to guide subject's attention 
